@@ -6,9 +6,9 @@ public abstract class Animal{
     this.legs=legs;
   }
   
-  public vois walk()
+  public void walk()
   {
     System.out.println("this animal walks by "+lega+"legs.");
   }
-  public abstract vois eat();
+  public abstract void eat();
 }
