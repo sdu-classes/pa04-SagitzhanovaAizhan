@@ -1,5 +1,5 @@
 public abstract class Animal{
-  pritected int legs;
+  protected int legs;
   
   protected Animal(int legs)
   {
