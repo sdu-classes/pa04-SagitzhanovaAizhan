@@ -5,7 +5,7 @@ public MovablePoint(int x , int y, int xspeed, int yspeed){
 this.x = x;
 }
 
-@Override
+
 public void moveUp(){
 y = yspeed;
 }
